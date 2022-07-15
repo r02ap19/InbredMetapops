@@ -1,1 +1,0 @@
-rep	gen	x	y	Nf	Nm	W	Wstd	Homoz	Hstd	DelMut	DelMutSd

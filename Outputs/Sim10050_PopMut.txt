@@ -1,1 +1,0 @@
-rep	gen	x	y	s	h	freq

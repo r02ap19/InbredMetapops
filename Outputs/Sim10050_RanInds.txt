@@ -1,1 +1,0 @@
-rep	gen	x	y	out	W	homoz	Nmut	Nho

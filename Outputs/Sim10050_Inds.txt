@@ -1,1 +1,0 @@
-rep	gen	x	y	dispersed	W	homoz	Nmut	Nho	pEp
