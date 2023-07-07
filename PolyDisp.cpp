@@ -14,7 +14,7 @@ int main(int argc, char* argv[])
 	dirOut = dir + "Outputs/"; //Outpus folder path
 
 	
-	para.SimNr = std::atoi(argv[1]);
+	//para.SimNr = std::atoi(argv[1]);
 
 
 	RunModel();
