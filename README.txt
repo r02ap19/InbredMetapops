@@ -1,12 +1,12 @@
 What is InbredMetapop?
 
 InbredMetapops is a spatially and genetically explicit individual-based model to simulate eco-evolutionary dynamics in metapopulations, explicitly accounting for accumulation of genetic load and dispersal evolution.
-The model has been created to test the extent to which strong population structure, the build-up of deleterious mutations (i.e. genetic load) and the evolution of dispersal can act synergistically to facilitate reduction of the genetic load in metapopulations and postpone extinctions through mutational meltdowns. For more details, please see [in print]. 
+The model has been created to test the extent to which strong population structure, the build-up of deleterious mutations (i.e. genetic load) and the evolution of dispersal can act synergistically to facilitate reduction of the genetic load in metapopulations and postpone extinctions through mutational meltdowns. For more details, please see https://doi.org/10.1111/evo.14620. 
 
 Parameters
 
 All parameter of the model are defined in the parameter.h file. Parameter values can be changed in parameters.cpp before producing an executable. 
-The default parameters are those used in the main text [in print].
+The default parameters are those used in the main text https://doi.org/10.1111/evo.14620.
 
 
 How to compile InbredMetapop
